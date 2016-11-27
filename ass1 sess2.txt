@@ -1,0 +1,9 @@
+public class assignments
+{
+	public static void main(String[] args) {
+		  if (System.out.printf("MY NAME IS ARPITHA", args)!=null) {} //printing name without using semicolon and using if statement
+
+	       
+	        
+	}
+}
